@@ -1,3 +1,4 @@
+const matriz = [[1,2],[3,4]]
 const letraA = ['A','a',0,0];
 const letraB = ['B','b',1,0];
 const letraC = ['C','c',2,0];
